@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://cosmic-khapse-25c262.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Alona Koriachenko
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/AlonaKoriachenko/weather-app-react"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
